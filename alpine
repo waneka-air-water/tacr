@@ -1,0 +1,36 @@
+# Installation
+
+## Partition
+
+```
+doas fdisk -w always $mydev <<EOF
+  o
+  n
+  p
+  1
+  2048
+  -0
+  t
+  0c
+  a
+  w
+EOF
+```
+
+```
+doas mkdosfs -F32 ${mydev}1
+```
+
+## Image
+
+```
+doas mount /dev/sda1 /mnt
+```
+
+```
+doas tar -xzvf alpine-rpi-3.15.4-aarch64.tar.gz -C /mnt --no-same-owner
+```
+
+```
+sync
+```
