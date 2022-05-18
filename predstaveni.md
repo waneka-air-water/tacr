@@ -25,10 +25,6 @@ Filtrační technologie. TUL
 
 #### Tématický okruh II.
 
-Technologie a konstrukce nádrže. Waneka
-
-#### Tématický okruh III.
-
 Inteligentní systém řízení. Waneka + ???
 
 
