@@ -54,10 +54,10 @@ module waste_pipe() {
     color("dimgray") rotate(90, [1, 90, 0]) cylinder(d = waste_pipe_diameter, h = waste_pipe_length);
 }
 
-tank();
-translate([- (width * filter_ratio) - shell, 0, 0]) filter();
-translate([- (width * filter_ratio) / 2 - shell, box_width / 2, 0]) pipe();
-translate([- width, - width, earth_depth]) earth();
-translate([- (width * filter_ratio), 0, earth_depth]) smart_unit();
-translate([- (width * filter_ratio) + box_width, box_width / 2, earth_depth + box_height / 2]) 
+translate([0, 0, - earth_depth]) tank();
+translate([- (width * filter_ratio) - shell, 0, - earth_depth]) filter();
+translate([- (width * filter_ratio) / 2 - shell, box_width / 2, - earth_depth]) pipe();
+translate([- width, - width, 0]) earth();
+translate([- (width * filter_ratio), 0, 0]) smart_unit();
+translate([- (width * filter_ratio) + box_width, box_width / 2, box_height / 2]) 
   waste_pipe();
