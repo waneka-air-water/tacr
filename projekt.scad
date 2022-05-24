@@ -10,6 +10,7 @@ earth_depth = 2000;
 building_height = 2000;
 waste_pipe_diameter = 50;
 waste_pipe_length = 200;
+earth_layer = 200;
 
 module fillett() {
  fillet(fillet_width, width); 
@@ -47,17 +48,36 @@ module pipe() color("aqua") {
 }
 
 module earth() {
-    color("sienna") square(2 * width);
+    color("sienna") linear_extrude(earth_layer) square(4 * width);
 }
 
 module waste_pipe() {
-    color("dimgray") rotate(90, [1, 90, 0]) cylinder(d = waste_pipe_diameter, h = waste_pipe_length);
+    color("dimgray") rotate(100, [0, 1, 0]) linear_extrude(waste_pipe_length, scale = 0.6)
+        circle(d = waste_pipe_diameter);
+}
+
+module collector_pipe() color("aqua") {
+    rotate([90, 0, 0]) {
+    		difference() {
+            cylinder(d = pipe_diameter, h = 4 * width);
+						translate([- pipe_diameter / 2, 0, -1]) cube([pipe_diameter, pipe_diameter, 4 * width + 2 ]);
+        } 
+   }
+}
+
+module building() {
+    roof_diameter = width + 3 * pipe_diameter;
+    cube([2 * width, 4 * width, building_height]);
+		color("brown") translate([width , 4 * width, building_height + roof_diameter / 2]) rotate([90, 0, 0]) rotate([0, 0, 90]) 
+        linear_extrude(4 * width) circle(roof_diameter, $fn = 3);
 }
 
 translate([0, 0, - earth_depth]) tank();
 translate([- (width * filter_ratio) - shell, 0, - earth_depth]) filter();
 translate([- (width * filter_ratio) / 2 - shell, box_width / 2, - earth_depth]) pipe();
-translate([- width, - width, 0]) earth();
+translate([-3 * width, -2 * width, - earth_layer]) earth();
 translate([- (width * filter_ratio), 0, 0]) smart_unit();
-translate([- (width * filter_ratio) + box_width, box_width / 2, box_height / 2]) 
-  waste_pipe();
+translate([- (width * filter_ratio) + box_width / 2, box_width / 2, box_height / 2]) 
+    waste_pipe();
+translate([-2 * width - box_width - pipe_diameter, - 2 * width, 0]) building();
+translate([- (width * filter_ratio) / 2 - shell, 2 * width, building_height]) collector_pipe();
