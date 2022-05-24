@@ -1,7 +1,9 @@
 # Úvod
 
-Cílem projektu je vývoj poloprovozní inteligentní nádrže pro sběr,
-čištění a skladování dešťové vody. V rámci vývoje bude navržen.
+Cílem projektu je vývoj inteligentní nádrže pro sběr,
+čištění a skladování dešťové vody. V rámci vývoje bude navržena
+filtrační jednotka (TUL) a inteligentní řídící jednotka pro monitoring
+a řízení toků a skladování dešťové vody.
 
 # Podnikatelská strategie
 
@@ -29,13 +31,13 @@ převážně v chemickém průmyslu a příbuzných oborech.
 
 ## Míra orientace na trh ČR a export.
 
-Firma je primárně zaměřená na dodávání služeb pro země
-EU. Největší projekty prozatím prováděla v Německé spolkové republice,
-České republice a v Polsku. Další spíše drobnější projekty realizovala
-také ve Švýcarsku a v Spojených Arabských Emirátech.
+Firma je primárně zaměřená na dodávání služeb pro země EU.
+Největší projekty prozatím prováděla v Německé spolkové republice,
+České republice a v Polsku. Další projekty realizovala také ve Švýcarsku
+a ve Spojených Arabských Emirátech.
 
-U popisovaního projektu by firma také chtěla využívat svých
-zkušeností ve výše uvedených regionech.
+U popisovaního projektu by firma také chtěla využívat svých zkušeností
+ve výše uvedených regionech.
 
 # Analýza tržních příležitostí
 
@@ -254,7 +256,15 @@ Velký potenciál projektu vidíme v jeho souladu se současným směřováním
 a přeorientací pokraokových zemí a společností na udržitelné zdroje.
 Tím že drobnými energetickými výdaji na monitoring a řízení je možno
 šetřit mnohem větší výdaje pro manuální řešení některých situací
-a při plánování hospodaření s dešťovou vodou.
+při plánování sběru a hospodaření s dešťovou vodou.
 
+# Hlavní partneři a budoucí zákazníci pro tržní uplatnění výstupů
+  projektu
 
-# Hlavní partneři a budoucí zákazníci pro tržní uplatnění výstupů projektu
+Jako největší partnery pro začátek realizace našeho projekt vidíme
+(??? dešťovka fond) pro domácí využití, Liberecký Kraj pro obce a
+(LiF štastný) pro průmyslové a logistické společnosti.
+
+Budoucí uplatnění je v souladu s doporučeními Evropské komise pro
+Zelenou dohodu, hlavně její části pro Ekologičtější energie a
+inovace díky špičkovým čistým technologiím.
