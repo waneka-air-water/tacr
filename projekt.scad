@@ -15,7 +15,7 @@ module fillett() {
  fillet(fillet_width, width); 
 }
 
-module tank() {
+module tank() color("aquamarine") {
     difference() {
         cube([width, width, width]);
 				translate([shell/2, shell/2, shell]) cube([width - shell, width - shell, width]);
@@ -30,7 +30,7 @@ module smart_unit() {
 }
 
 module filter() {
-    difference() {
+    color("springgreen") difference() {
         cube([width * filter_ratio, width, width]);
         fillett();
         translate([width, 0, 0]) rotate(90) fillett();
@@ -38,8 +38,8 @@ module filter() {
         translate([0, width, 0]) rotate(270) fillett();
 				translate([shell/2, shell/2, shell]) cube([width * filter_ratio - shell, width - shell, width]);
     }
-		translate([0, 0, width + shell]) cube([width * filter_ratio, width, shell]);
-		translate([0, 0, width + shell]) smart_unit();
+		color("springgreen") translate([0, 0, width + shell]) cube([width * filter_ratio, width, shell]);
+		translate([0, 0, width + 2 *shell]) smart_unit();
 }
 
 module pipe() color("aqua") {
@@ -51,7 +51,7 @@ module earth() {
 }
 
 module waste_pipe() {
-    rotate(90, [1, 90, 0]) cylinder(d = waste_pipe_diameter, h = waste_pipe_length);
+    color("dimgray") rotate(90, [1, 90, 0]) cylinder(d = waste_pipe_diameter, h = waste_pipe_length);
 }
 
 tank();
