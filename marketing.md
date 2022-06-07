@@ -1,16 +1,16 @@
 # Úvod
 
 Cílem projektu je vývoj inteligentní nádrže pro sběr,
-čištění a skladování dešťové vody. V rámci vývoje bude navržena
+čištění a akumulování srážkové vody. V rámci vývoje bude navržena
 filtrační jednotka (TUL) a inteligentní řídící jednotka pro monitoring
-a řízení toků a skladování dešťové vody.
+a řízení toků a skladování srážkové vody.
 
 # Podnikatelská strategie
 
 ## Základní orientace výstupů projektu na produkty nebo služby
 
 Filtrační jednotka pro filtraci nečistot obsažených v sebrané
-dešťové vodě pomocí ...
+srážkové vodě pomocí ...
 
 Hardware jednotky pro automatizaci jednotlivých procesů,
 které je nutné monitorovat a řídit v jednotlivých fázích funkce
@@ -22,7 +22,7 @@ a řízení celého systému podle jeho potřeb.
 ## Podpora strategie a tržní pozice podniku
 
 Firma Waneka má dlouhodobě zájem o vytvoření systému pro sběr
-dešťové vody a vytvoření produktu, který bude možno nabízet a
+srážkové vody a vytvoření produktu, který bude možno nabízet a
 dodávat zákazníkům pro široké spektrum nasazení.
 
 Aktuálně firma dodává hlavně služby v oboru práce s plasty.
@@ -36,18 +36,22 @@ Největší projekty prozatím prováděla v Německé spolkové republice,
 České republice a v Polsku. Další projekty realizovala také ve Švýcarsku
 a ve Spojených Arabských Emirátech.
 
-U popisovaního projektu by firma také chtěla využívat svých zkušeností
-ve výše uvedených regionech.
+U popisovaního projektu by firma chtěla využívat svých zkušeností
+ve výše uvedených regionech. I když zpočátku se budeme z logisticko
+organizačních důvodů zaměřovat hlavně na český trh, již z
+předběžného průzkumu zájmu jasně vyplývá, že projekt není jen
+lokálním podnikem, ale takovým který je schopen zaujmout firmy, obce i
+jednotlivce v kterékoliv lokalitě mírného pásma.
 
 # Analýza tržních příležitostí
 
 ## Zdůvodnéní potřeby výstupů projektu pro zákazníky
 
-Všichni potencíální zákazníci mají zájem o sběr a využití dešťové
+Všichni potencíální zákazníci mají zájem o sběr a využití srážkové
 vody ať už pro využití pro domácí potřeby tak pro potřeby v průmyslu.
 
 Výstupy projektu budou všem zákazníkům poskytovat moderní, sledovatelný
-a kvantifikovatelný provoz sběru dešťové vody. Tato oblast je v současné
+a kvantifikovatelný provoz sběru srážkové vody. Tato oblast je v současné
 chvíli velmi sledovaná z důvodu zdražování vody a dalších energií
 nutných pro její zpracování a uskladnění.
 
@@ -61,26 +65,26 @@ a technologických náplní do vodáren (ASIO, ENVIPUR, Ekomonitor a další).
 
 ## Hlavní konkurenti v zahraničí
 
-Hlavními konkurenty v zahraničí jsou stejně jako v ČR velké
-úpravárenské firmy a dodavatelé celých technologických celků.
+Hlavními konkurenty v zahraničí jsou stejně jako v ČR dodavatelé
+celých technologických celků.
 
 ## Současné postavení na trhu v ČR a zahraničí
 
 Firma v tuto chvíli nemá v kategorii přímých dodávek nádrží na
-dešťovou vodu v podstatě žádné zastoupení.
+srážkovou vodu v podstatě žádné zastoupení.
 
 ## Možnosti uplatnění na zahraničních trzích
 
 Zkušenosti, které firma nabyla při poskytování služeb a subdodávek
-budou sloužit jako velmi dobrý základ pro tuto expanzi. Velikou výhodou
-firmy je složení týmu, které je mezinárodní a se širokým profesním
-záběrem. Od technologií pro výrobu plastových nádrží, přes filtrační
-a čistící systémy až po hardware a software nutný pro řízení
-zařízení pro sledování a řízení elektronických zařízení. Na
-zahraniční trh je možné se dostat prostřednictvím svých dlouholetých
-kontaktů získaných při provozování výše popisovaných služeb. Také
-její umístění v trojmezí mezi ČR, SRN a PL nabízí mnoho možností
-pro rozvoj zahraničního
+budou sloužit jako velmi dobrý základ pro expanzi za hranice České
+republiky. Velikou výhodou firmy je složení týmu, které je mezinárodní
+a se širokým profesním záběrem. Od technologií pro výrobu plastových
+nádrží, přes filtrační a čistící systémy až po hardware a software
+nutný pro řízení zařízení pro sledování a řízení elektronických
+zařízení. Na zahraniční trh je možné se dostat prostřednictvím svých
+dlouholetých kontaktů získaných při provozování výše popisovaných
+služeb. Také umístění jejího sídla v trojmezí mezi ČR, SRN a PL
+nabízí mnoho možností pro rozvoj zahraničního
 
 ## Hodnocení aktuální a budoucí pozice na trhu v porovnání s konkurencí
 
@@ -112,21 +116,21 @@ různými nároky, jak na konstrukci tak na parametry zařízení.
 
 # Konkurenční faktory podporující tržní uplatnění
 
-Sběr a skladování dešťové vody je i díky stále většímu důrazu
+Sběr a skladování srážkové vody je i díky stále většímu důrazu
 na udržitelnost lidské existence na planetě zemi velmi aktuální
 téma. Nicméně v současné době jde pouze o prosté stečení vody,
 která naprší do nádrže. V naší vizi je toto pouze jednou z částí
-a větší důraz je kladen jak na čištění tak hlavně na inetligentní
+a větší důraz je kladen jak na čištění tak hlavně na inteligentní
 řízení a monitoring celého procesu.
 
 Jedním z možných výstupu potom vidíme i v dodávkách pouze těchto
-technologií kuž existujícím "hloupým" instalacím, kde je přidaná
+technologií k už existujícím "hloupým" instalacím, kde je přidaná
 hodnota našeho řešení a tedy tržní ocenění ještě větší než
 při dodávkách celých kompletů.
 
 Za předpokladu získání dostatečně kvalitních výsledků vidíme
 možnosti v jejich prodeji jako nedocenitelné a může jít dokonce o
-průlom v celé oblasti sběru dešťové vody.
+průlom v celé oblasti sběru srážkové vody.
 
 # Produktová strategie
 
@@ -134,7 +138,7 @@ Systém jakosti a produktovou strategii považujeme za nedílnou součást
 obchodní strategie společnosti a jeho důsledné dodržování za prvořadý
 závazek všech pracovníků společnosti.
 
-Vyvíjená modulární technologie sběru, úpravy a skladování dešťové
+Vyvíjená modulární technologie sběru, úpravy a skladování srážkové
 vody bude založena na vysoké míře flexibility nasazená a provozu celého
 systému, které bude atraktivní pro uživatele systému.
 
@@ -152,11 +156,11 @@ veškerého software a některých dalších částí s otevřenými zdroji
 
 # Cenová úroveň v době realizace
 
-Cena prosté nádrže na dešťovou vodu se v dnešní době pohzbuje mezi
+Cena prosté nádrže na srážkovou vodu se v dnešní době pohzbuje mezi
 ???. Do ceny našeho řešení se bude promýtat přidání technologií
 pro úpravu vody a také řízení. Ty ovšem budou poskytovat velmi cennou
 přidanou hodnotu pro zákazníka. Zvláště díky tomu, že komfort
-používání bude nejvíc závyslí na kvalitě hardware a software
+používání bude nejvíc závislý na kvalitě hardware a software
 řídící jednotky, která bude v celkové ceně tvořit jen jednu malou
 část, která je navíc cenou fixní, jen velmi málo závislou na velikosti
 instalované nádrže.
@@ -210,36 +214,36 @@ technologie. Firma AQUATEST si zvýší svojí technologickou úroveň a
 podstatně si rozšíří komerční portfolio nabízených produktů a
 služeb, což je v souladu se strategií firmy.
 
-Ekonomická návratnost
-nákladů vynaložených na projekt bude postupná a bude závislá na počtu
-prodejů nové technologie. V případě, že se bude technologie prodávat
-dle předpokladů, je plánována návratnost vynaložených prostředků
-během 5 let. Nicméně zde je nutné uvést i neekonomické přínosy v
-podobě získání praktických dovedností a vědomostí, které budou
-následně využity i při jiných příležitostech a zakázkách než
-jen při prodeji nové technologie. Tyto ekonomické přínosy pro firmu je
-velmi obtížné predikovat, ale při hodnocení projektu je brát i toto
-na zřetel.  V tabulce 6 jsou uvedeny celkové předpokládané ekonomické
-přínosy projektu pro uchazeče za dobu pěti let po ukončení projektu.
+Ekonomická návratnost nákladů vynaložených na projekt bude postupná
+a bude závislá na počtu prodejů nové technologie. V případě, že se
+bude technologie prodávat dle předpokladů, je plánována návratnost
+vynaložených prostředků během 5 let. Nicméně zde je nutné uvést
+i neekonomické přínosy v podobě získání praktických dovedností a
+vědomostí, které budou následně využity i při jiných příležitostech
+a zakázkách než jen při prodeji nové technologie. Tyto ekonomické
+přínosy pro firmu je velmi obtížné predikovat, ale při hodnocení
+projektu je brát i toto na zřetel.  V tabulce 6 jsou uvedeny celkové
+předpokládané ekonomické přínosy projektu pro uchazeče za dobu pěti
+let po ukončení projektu.
 
 Zisk je předpokládán okolo 10%. Celkové tržby jsou zde odhadnuty
-dle vývoje za poslední 4 roky. Technologii je možné prodávat až po
-ukončení vývoje biologicko – sorpčních jednotek a po ukončení
-pilotních testů. Proto jsou ekonomické přínosy počítány až od
-r. 2025 tedy po ukončení projektu. Před tím nelze technologii jako
-polotovar prodávat.  Hlavní ekonomické přínosy jsou předpokládány
-zejména z přímé výrobě technologie a jejímu následnému prodeji
-obcím a malým vodním zdrojům. Dále v získávání nových zákazníků
-na základě referencí. Technologie bude nabízena jako dodávka na
-klíč včetně zajištění zkušebního provozu, servisních služeb
-technologie a řídicích systémů (opravy, úpravy technologie včetně
-zajištění laboratorních zkoušek). Výroba technologie zajistí nejen
-rozšíření technologické divize společnosti, ale pomůže rozvoji a
-zvýšení množství zakázek divizi laboratoří.  U všech subjektů,
+dle vývoje za poslední 4 roky. Technologii je možné prodávat až
+po ukončení vývoje biologicko – sorpčních jednotek a po ukončení
+pilotních testů. Proto jsou ekonomické přínosy počítány až od r. 2025
+tedy po ukončení projektu. Před tím nelze technologii jako polotovar
+prodávat. Hlavní ekonomické přínosy jsou předpokládány zejména v
+přímé výrobě technologie a jejímu následnému prodeji obcím. Dále v
+získávání nových zákazníků na základě referencí. Technologie bude
+nabízena jako dodávka na klíč včetně zajištění zkušebního provozu,
+servisních služeb technologie a řídicích systémů (opravy, úpravy
+technologie včetně zajištění laboratorních zkoušek). U všech subjektů,
 které budou uživateli technologie, tedy potenciálních provozovatelů
 vyvinuté technologie, to bude rovněž představovat environmentální
 přínosy. Aplikovaná technologie bude mít pozitivní vliv na životní
 prostředí a zejména pozitivní účinek na zdraví lidské populace.
+
+// Hlavní bude velké nasazení se servisními službami a zajišťování
+dodávek spotřebního materiálu.
 
 # Souhrnné informace a hodnocení tržního potenciálu výstupů projektu
 
@@ -250,13 +254,13 @@ správu a monitoring celého systému. Z tohoto důvodu jsme se rozhodli
 se na tuto oblast orientovat.
 
 I když není součástí tohoto projektu, naše společnost počítá s dalším
-rozvojem celého nápadu i na další segmenty nespojené s deštěm.
+rozvojem celého nápadu i na další segmenty nespojené se srážkami.
 
 Velký potenciál projektu vidíme v jeho souladu se současným směřováním
-a přeorientací pokraokových zemí a společností na udržitelné zdroje.
-Tím že drobnými energetickými výdaji na monitoring a řízení je možno
-šetřit mnohem větší výdaje pro manuální řešení některých situací
-při plánování sběru a hospodaření s dešťovou vodou.
+a přeorientací pokrokových zemí a společností na udržitelné zdroje.
+A hlavně v tom, že drobnými energetickými výdaji na monitoring a řízení
+je možno šetřit mnohem větší výdaje pro manuální řešení některých
+situací při plánování sběru a hospodaření s srážkovou vodou.
 
 # Hlavní partneři a budoucí zákazníci pro tržní uplatnění výstupů
   projektu
